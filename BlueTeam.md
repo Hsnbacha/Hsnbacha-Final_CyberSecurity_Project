@@ -95,8 +95,6 @@ HTTP Request Size Monitor is implemented as follows:
 - Reliability:
     - Alert could create false positives. It comes in at a medium reliability. There is a possibility for a large non malicious HTTP request or legitimate HTTP traffic.
 
-![HTTP Request Size Monitor alert logs](/Images/http-request-size-monitor-logs.png "HTTP Request Size Monitor alert logs")
-
 **CPU Usage Monitor**
 
 CPU Usage Monitor is implemented as follows:
