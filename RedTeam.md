@@ -92,9 +92,7 @@ The Red Team was able to penetrate Target 1 and retrieve the following confident
             - `show tables;`
             - `select * from wp_posts;`
 
-![Flag 3 location](/Images/flag3-location.png "Flag 3 location")
-
-- **Flag4: 715dea6c055b9fe3337544932f2941ce**
+- **Flag3: 715dea6c055b9fe3337544932f2941ce**
 - Exploit Used:
     - Unsalted password hash and the use of privilege escalation with Python.
     - Capturing Flag 4: Retrieve user credentials from database, crack password hash with John the Ripper and use Python to gain root privileges.
